@@ -1,11 +1,18 @@
+# First version control file
+
 Hello World!
+
+## Text underline
 
 *italics.*
 
 **bold**
 
+## Lists
+
 * Элемент 1
 * Элемент 2
 * Элемент 3
 
-Start ininduction to version control.
+1. Элемент нумерованного списка
+2. Второй элемент нумеованного списка
